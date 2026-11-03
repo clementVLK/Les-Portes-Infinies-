@@ -1,0 +1,5 @@
+# Ignorer entièrement le dossier .vs et tout son contenu
+.vs/
+
+# Mais ré-inclure (faire une exception pour) un élément spécifique
+!Kremlin.vs/v17/  # (Exemple : garder un sous-dossier ou fichier précis)
