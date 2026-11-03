@@ -1,0 +1,3 @@
+# Ignorer complètement le dossier .vs et tout ce qu'il contient
+**/LesPortesInfinies/.vs/
+**/obj/
